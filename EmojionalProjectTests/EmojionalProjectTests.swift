@@ -2,7 +2,7 @@
 //  EmojionalProjectTests.swift
 //  EmojionalProjectTests
 //
-//  Created by Rithi Vaithyanathan on 7/24/19.
+//  Created by Rithi Vaithyanathan on 7/22/19.
 //  Copyright © 2019 Rithi Vaithyanathan. All rights reserved.
 //
 
